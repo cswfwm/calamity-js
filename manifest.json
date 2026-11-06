@@ -1,0 +1,28 @@
+{
+  "uid": "09ed880e-8f18-4092-9398-61fafa026c63",
+  "id": "calamityjs",
+  "name": "Calamity JS",
+  "localizedNames": {
+    "zh-Hans": "灾厄 JS 移植",
+    "en-US": "Calamity JS"
+  },
+  "version": "0.1.0",
+  "authors": [
+    { "name": "AiCode", "role": "JS 移植", "color": "#7FC8FF" },
+    { "name": "The Calamity Dev Team", "role": "原版灾厄 Mod", "color": "#E8C170", "link": "https://calamitymod.com" }
+  ],
+  "category": "Itens",
+  "summary": "Calamity content for Terraria Mobile: the Rogue class with stealth, the Desert Scourge boss and its loot.",
+  "localizedSummaries": {
+    "zh-Hans": "灾厄模组的手机端移植：盗贼职业与潜行、荒漠灾虫 Boss 及其掉落、复仇模式。"
+  },
+  "license": "MIT",
+  "featured": false,
+  "updated": "2026-11-07",
+  "blVersion": 2,
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    { "title": "灾厄官方 Wiki", "url": "https://calamitymod.wiki.gg/" }
+  ]
+}
