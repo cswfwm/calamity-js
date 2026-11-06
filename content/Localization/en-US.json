@@ -1,0 +1,62 @@
+{
+  "ItemName": {
+    "SaharaSlicers": "Sahara Slicers",
+    "Barinade": "Barinade",
+    "SandstreamScepter": "Sandstream Scepter",
+    "BrittleStarStaff": "Brittle Star Staff",
+    "ScourgeOfTheDesert": "Scourge of the Desert",
+    "PearlShard": "Pearl Shard",
+    "DesertMedallion": "Desert Medallion",
+    "DesertScourgeBag": "Treasure Bag (Desert Scourge)",
+    "OceanCrest": "Ocean Crest",
+    "SandCloak": "Sand Cloak",
+    "BrittleStarBuff": "Brittle Star"
+  },
+  "ItemTooltip": {
+    "SaharaSlicers": "A quick three-hit stab\nRight click throws a spinning blade",
+    "Barinade": "A bow that compresses seawater into arrows",
+    "SandstreamScepter": "Sprays a stream of sand that pierces enemies",
+    "BrittleStarStaff": "Summons a brittle star to fight for you",
+    "ScourgeOfTheDesert": "A javelin that burrows and hunts enemies\nStealth strikes throw three at once",
+    "PearlShard": "A shard of the Desert Scourge's hardened shell",
+    "DesertMedallion": "Use in the desert to summon the Desert Scourge",
+    "OceanCrest": "Breathe underwater\nImmune to most ocean creatures\nExpert exclusive",
+    "SandCloak": "8% increased rogue damage\n4% increased rogue critical strike chance"
+  },
+  "BuffName": {
+    "BrittleStarBuff": "Brittle Star"
+  },
+  "BuffDescription": {
+    "BrittleStarBuff": "A brittle star fights for you"
+  },
+  "ProjectileName": {
+    "SaharaSlicersBlade": "Sahara Slicers",
+    "SaharaSlicersBladeAlt": "Sahara Slicers",
+    "SaharaSlicersBolt": "Sahara Bolt",
+    "BarinadeArrow": "Barinade Arrow",
+    "Sandstream": "Sandstream",
+    "ScourgeOfTheDesertProj": "Scourge of the Desert",
+    "BrittleStarMinion": "Brittle Star",
+    "DesertScourgeSpit": "Sand Blast"
+  },
+  "NPCName": {
+    "DesertScourgeHead": "Desert Scourge",
+    "DesertScourgeBody": "Desert Scourge",
+    "DesertScourgeTail": "Desert Scourge"
+  },
+  "DamageClasses": {
+    "RogueDamageClass": {
+      "DisplayName": "rogue damage"
+    }
+  },
+  "Configs": {
+    "CalamityConfig": {
+      "Difficulty": {
+        "Label": "Difficulty mode",
+        "Off": "Off",
+        "Revengeance": "Revengeance",
+        "Death": "Death"
+      }
+    }
+  }
+}

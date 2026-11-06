@@ -1,0 +1,62 @@
+{
+  "ItemName": {
+    "SaharaSlicers": "沙暴剑",
+    "Barinade": "巴淋内德",
+    "SandstreamScepter": "水流喷射",
+    "BrittleStarStaff": "海星召唤杖",
+    "ScourgeOfTheDesert": "荒漠灾虫",
+    "PearlShard": "珍珠碎片",
+    "DesertMedallion": "荒漠吊坠",
+    "DesertScourgeBag": "宝藏袋（荒漠灾虫）",
+    "OceanCrest": "海波项链",
+    "SandCloak": "沙尘披风",
+    "BrittleStarBuff": "海星"
+  },
+  "ItemTooltip": {
+    "SaharaSlicers": "快速的三连突刺\n右键投出旋转刀光",
+    "Barinade": "把海水压缩成箭的弓",
+    "SandstreamScepter": "喷出一道能穿透敌人的沙流",
+    "BrittleStarStaff": "召唤一只海星为你作战",
+    "ScourgeOfTheDesert": "会钻入地下并追击敌人的标枪\n潜行突袭时同时投出三柄",
+    "PearlShard": "荒漠灾虫的硬化甲壳碎片",
+    "DesertMedallion": "在沙漠中使用可召唤荒漠灾虫",
+    "OceanCrest": "能在水下呼吸\n免疫多数海洋生物的伤害\n专家模式专属",
+    "SandCloak": "盗贼伤害提高 8%\n盗贼暴击率提高 4%"
+  },
+  "BuffName": {
+    "BrittleStarBuff": "海星"
+  },
+  "BuffDescription": {
+    "BrittleStarBuff": "一只海星在为你作战"
+  },
+  "ProjectileName": {
+    "SaharaSlicersBlade": "沙暴剑",
+    "SaharaSlicersBladeAlt": "沙暴剑",
+    "SaharaSlicersBolt": "沙暴刀光",
+    "BarinadeArrow": "巴淋内德之箭",
+    "Sandstream": "沙流",
+    "ScourgeOfTheDesertProj": "荒漠灾虫",
+    "BrittleStarMinion": "海星",
+    "DesertScourgeSpit": "沙暴弹幕"
+  },
+  "NPCName": {
+    "DesertScourgeHead": "荒漠灾虫",
+    "DesertScourgeBody": "荒漠灾虫",
+    "DesertScourgeTail": "荒漠灾虫"
+  },
+  "DamageClasses": {
+    "RogueDamageClass": {
+      "DisplayName": "盗贼伤害"
+    }
+  },
+  "Configs": {
+    "CalamityConfig": {
+      "Difficulty": {
+        "Label": "难度模式",
+        "Off": "关闭",
+        "Revengeance": "复仇",
+        "Death": "死亡"
+      }
+    }
+  }
+}
